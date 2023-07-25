@@ -1,2 +1,2 @@
 # Machine-Learning-course
-Assignments and projects from the machine learning course offered at the University of Tehran.
+In this repository, you will find code for assignments and projects from the machine learning course offered at the University of Tehran. The course was taught by Dr. <a href="https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=en">Babak Najar Arabi</a> , Dr. <a href="https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en">Mohammad-Reza A. Dehaqani</a>, and Dr. <a href="https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en">Mostafa Tavassolipour</a>.
