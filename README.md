@@ -15,9 +15,9 @@ This course focuses on various aspects of Machine Learning, covering fundamental
 ## Table of Contents
 
 Please find below a brief overview of the contents of this repository:
-1. `HW1/`: This directory contain code for Assignment 1, which focused on Bayes. The assignment includes code for implementing Naive Bayes without using any libraries.
-2. `HW2/`: This directory contain code for Assignment 2, which focused on Regression. The assignment includes code for implementing Naive Bayes without using any libraries.
-3. `HW3/`:
+1. `HW1/`: This directory contains code for Assignment 1, which focused on Bayes. The assignment includes code for implementing Naive Bayes without using any libraries.
+2. `HW2/`: This directory contains code for Assignment 2, which focused on Regression. The assignment includes code for implementing Naive Bayes without using any libraries.
+3. `HW3/`: This directory contains code for Assignment 2, which focuses on KNN (K-Nearest Neighbors), Neural Network, and Decision Tree algorithms. The assignment includes code for implementing a simple CNN (Convolutional Neural Network) for CIFAR-10 dataset and perceptron for the Iris dataset.
 4. `HW4/`:
 5. `HW5/`:
 6. `Final Project/`: Here, you can find code related to the projects completed as part of the course requirements.
