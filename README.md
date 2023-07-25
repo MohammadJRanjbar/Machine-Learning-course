@@ -15,10 +15,12 @@ This course focuses on various aspects of Machine Learning, covering fundamental
 ## Table of Contents
 
 Please find below a brief overview of the contents of this repository:
-
-1. `HWs/`: These directories contains code for all the assignments given during the course.
-  - `HW1/`: Hello 
-3. `Final Project/`: Here, you can find code related to the projects completed as part of the course requirements.
+1. `HW1/`: this directory contain code for Assignment 1, which focused on Bayes. The assignment includes code for implementing Naive Bayes without using any external libraries.
+2. `HW2/`:
+3. `HW3/`:
+4. `HW4/`:
+5. `HW5/`:
+6. `Final Project/`: Here, you can find code related to the projects completed as part of the course requirements.
 
 ## Disclaimer
 
