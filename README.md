@@ -1,6 +1,6 @@
-# Machine Learning Course Repository
+# Machine Learning Course Repository <img src="University_of_Tehran_logo.svg.png" alt="Machine Learning" width="50">
 
-<img src="University_of_Tehran_logo.svg.png" alt="Machine Learning" width="50">
+
 
 Welcome to the Machine Learning course repository offered at the University of Tehran. This repository contains code for assignments and projects completed during the course. The course was taught by esteemed professors:
 
