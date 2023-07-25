@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: document.aux
+The style file: plain-fa.bst
+Database file #1: citation.bib
+Warning--I didn't find a database entry for "Hello"
+-- plain-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+
+Done.
+You've used 1 entry,
+            2546 wiz_defined-function locations,
+            633 strings with 5309 characters,
+and the built_in function-call counts, 362 in all, are:
+= -- 32
+> -- 7
+< -- 0
++ -- 3
+- -- 2
+* -- 35
+:= -- 58
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 11
+empty$ -- 28
+format.name$ -- 2
+if$ -- 74
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 6
+newline$ -- 15
+num.names$ -- 2
+pop$ -- 2
+preamble$ -- 1
+purify$ -- 3
+quote$ -- 0
+skip$ -- 7
+stack$ -- 0
+substring$ -- 30
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 4
+warning$ -- 0
+while$ -- 4
+width$ -- 2
+write$ -- 19
+(There was 1 warning)

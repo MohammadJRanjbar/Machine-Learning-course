@@ -1,0 +1,28 @@
+\contentsline {section}{۰) پیوست}{7}{}%
+\contentsline {section}{۱) مقدمه}{7}{}%
+\contentsline {section}{۲) ویژگی‌های موسیقی}{9}{}%
+\contentsline {subsection}{۲-۱) موسیقی چیست؟}{9}{}%
+\contentsline {subsection}{۲-۲) فرمت های صوتی}{9}{}%
+\contentsline {subsection}{۲-۳) سیگنال صوتی}{10}{}%
+\contentsline {subsection}{۲-۴) ویژگی‌های حوزه زمان}{10}{}%
+\contentsline {subsection}{۲-۵) ویژگی‌های حوزه فرکانس}{12}{}%
+\contentsline {subsection}{۲-۶) ویژگی های طیفی}{18}{}%
+\contentsline {section}{۳) استخراج ویژگی و پیش پردازش داده ها}{20}{}%
+\contentsline {subsection}{۳-۱) دیتاست}{20}{}%
+\contentsline {subsection}{۳-۲) استخراج ویژگی}{21}{}%
+\contentsline {subsection}{۳-۳) پیش پردازش داده ها}{25}{}%
+\contentsline {subsection}{۳-۴) کاهش بعد}{27}{}%
+\contentsline {subsection}{۳-۵) انتخاب ویژگی}{30}{}%
+\contentsline {section}{۴) طبقه‌بندی کننده‌ها}{30}{}%
+\contentsline {subsection}{۴-۱) شبکه عصبی چندلایه}{30}{}%
+\contentsline {subsection}{۴-۲) SVM}{32}{}%
+\contentsline {subsection}{۴-۳) Knn}{39}{}%
+\contentsline {subsection}{۴-۴) \lr {Logistic Regression}}{42}{}%
+\contentsline {subsection}{۴-۵) \lr {Ensemble Learning}}{43}{}%
+\contentsline {subsection}{۴-۶) \lr {XGboost}}{45}{}%
+\contentsline {subsection}{۴-۷) مقایسه}{47}{}%
+\contentsline {section}{۵) خوشه بندی}{47}{}%
+\contentsline {subsection}{۵-۱) K-means}{48}{}%
+\contentsline {subsection}{۵-۲) \lr {Spectral Clustering}}{50}{}%
+\contentsline {section}{۶) نتیجه گیری}{51}{}%
+\contentsline {section}{۷) ضمیمه}{52}{}%
