@@ -10,7 +10,7 @@ Welcome to the Machine Learning course repository offered at the University of T
 
 ## Course Description
 
-This course focuses on various aspects of Machine Learning, covering fundamental concepts and advanced techniques. Students have the opportunity to delve into hands-on projects and assignments that reinforce their understanding of the material.
+This course focuses on various aspects of Machine Learning, covering fundamental concepts and advanced techniques. 
 
 ## Table of Contents
 
