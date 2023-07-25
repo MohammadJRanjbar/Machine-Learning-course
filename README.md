@@ -15,8 +15,8 @@ This course focuses on various aspects of Machine Learning, covering fundamental
 ## Table of Contents
 
 Please find below a brief overview of the contents of this repository:
-1. `HW1/`: this directory contain code for Assignment 1, which focused on Bayes. The assignment includes code for implementing Naive Bayes without using any external libraries.
-2. `HW2/`:
+1. `HW1/`: This directory contain code for Assignment 1, which focused on Bayes. The assignment includes code for implementing Naive Bayes without using any libraries.
+2. `HW2/`: This directory contain code for Assignment 2, which focused on Regression. The assignment includes code for implementing Naive Bayes without using any libraries.
 3. `HW3/`:
 4. `HW4/`:
 5. `HW5/`:
