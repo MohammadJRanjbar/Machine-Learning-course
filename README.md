@@ -17,9 +17,9 @@ This course focuses on various aspects of Machine Learning, covering fundamental
 Please find below a brief overview of the contents of this repository:
 1. `HW1/`: This directory contains code for Assignment 1, which focused on Bayes. The assignment includes code for implementing Naive Bayes without using any libraries.
 2. `HW2/`: This directory contains code for Assignment 2, which focused on Regression. The assignment includes code for implementing Naive Bayes without using any libraries.
-3. `HW3/`: This directory contains code for Assignment 2, which focuses on KNN (K-Nearest Neighbors), Neural Network, and Decision Tree algorithms. The assignment includes code for implementing a simple CNN (Convolutional Neural Network) for CIFAR-10 dataset and perceptron for the Iris dataset.
-4. `HW4/`:
-5. `HW5/`:
+3. `HW3/`: This directory contains code for Assignment 3, which focuses on KNN (K-Nearest Neighbors), Neural Network, and Decision Tree algorithms. The assignment includes code for implementing a simple CNN (Convolutional Neural Network) for CIFAR-10 dataset and perceptron for the Iris dataset.
+4. `HW4/`: This directory contains code for Assignment 4, which focuses on SVM (Support Vector Machine). The assignment includes code for implementing SVM with different hyperparameters and comparing their results. Additionally, it contains code for implementing SVR (Support Vector Regression) for a simple regression task.
+5. `HW5/`: This directory contains code for Assignment 5, which focuses on feature selection methods, including LDA (Linear Discriminant Analysis), PCA (Principal Component Analysis), Sequential Forward Selection (SFS), and Recursive Feature Elimination(RFE). The assignment includes code for implementing SFS and RFE on the Wine dataset. Additionally, PCA has been implemented for the Faces dataset. In Q7, LDA has been implemented for the Fashion-MNIST dataset.
 6. `Final Project/`: Here, you can find code related to the projects completed as part of the course requirements.
 
 ## Disclaimer
