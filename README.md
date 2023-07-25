@@ -17,7 +17,7 @@ This course focuses on various aspects of Machine Learning, covering fundamental
 Please find below a brief overview of the contents of this repository:
 
 1. `HWs/`: These directories contains code for all the assignments given during the course.
-  - 'HW1/': Hello 
+  - `HW1/`: Hello 
 3. `Final Project/`: Here, you can find code related to the projects completed as part of the course requirements.
 
 ## Disclaimer
