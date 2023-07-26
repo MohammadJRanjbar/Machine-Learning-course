@@ -2,7 +2,7 @@
 
 
 
-Welcome to the Machine Learning course repository offered at the University of Tehran. This repository contains code for assignments and projects completed during the course. The course was taught by esteemed professors:
+Welcome to the Machine Learning course repository offered at the University of Tehran. This repository contains code for assignments and projects completed during the course. The course by:
 
 - [Dr. Babak Najar Arabi](https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=en)
 - [Dr. Mohammad-Reza A. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en)
