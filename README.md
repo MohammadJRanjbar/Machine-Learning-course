@@ -28,6 +28,7 @@ This particular project focuses on the classification of Dastgah in Persian musi
    2.  **Data Preprocessing, analysis, and visualization**: To build a robust model, 
    need to clear our dataset by deleting incorrect files. Also, we need to find features that have the most correlation with our labels and help us in the       classification and clustering tasks.
    3.   **Feature extraction**: Based on the information acquired in the first part we need to extract features and prepare our dataset for the next part. We use two sets of feautres for this project, the first set are as followed:
+   4.   
      - Zero Crossing Rate: The rate at which the signal changes from positive to negative or back.
      - STFT (Short Time Fourier Transforms): The STFT represents a signal in the time-frequency domain by computing discrete Fourier transforms (DFT) over short overlapping windows
      - Harmonics and Perceptrual: Harmonics are characteristichs that human years can't distinguish (represents the sound color). Perceptrual understanding shock wave represents the sound rhythm and emotion
@@ -37,8 +38,8 @@ This particular project focuses on the classification of Dastgah in Persian musi
      - Spectral Bandwidth: Spectral Bandwidth is the spectral range of interest around the centroid, that is, the variance from the spectral centroid.
      - Mel-Frequency Cepstral Coefficients: The Mel frequency cepstral coefficients (MFCCs) of a signal are a small set of features (usually about 10–20) which concisely describe the overall shape of a spectral envelope. It models the characteristics of the human voice.
      - Chroma Frequencies: Chroma features are an interesting and powerful representation for music audio in which the entire spectrum is projected onto 12 bins representing the 12 distinct semitones (or chroma) of the musical octave.
-   4.   **Classification**: In this part, Based on the features extracted from the model and their correlation with our classes, We need to design the best model that does the task of classifying. In this project, We try models such as Multilayer Perceptron, SVM, etc.
-   5.   **Clustering**: Clustering music dastgah is a task of grouping music based on the similarities in their audio characteristics.
+   5.   **Classification**: In this part, Based on the features extracted from the model and their correlation with our classes, We need to design the best model that does the task of classifying. In this project, We try models such as Multilayer Perceptron, SVM, etc.
+   6.   **Clustering**: Clustering music dastgah is a task of grouping music based on the similarities in their audio characteristics.
 
 ## Disclaimer
 
