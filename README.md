@@ -28,7 +28,7 @@ This particular project focuses on the classification of Dastgah in Persian musi
    2.  **Data Preprocessing, analysis, and visualization**: To build a robust model, 
    need to clear our dataset by deleting incorrect files. Also, we need to find features that have the most correlation with our labels and help us in the       classification and clustering tasks.
    3.   **Feature extraction**: Based on the information acquired in the first part we need to extract features and prepare our dataset for the next part. We use two sets of feautres for this project, the first set are as followed:
-   4.   
+  
      - Zero Crossing Rate: The rate at which the signal changes from positive to negative or back.
      - STFT (Short Time Fourier Transforms): The STFT represents a signal in the time-frequency domain by computing discrete Fourier transforms (DFT) over short overlapping windows
      - Harmonics and Perceptrual: Harmonics are characteristichs that human years can't distinguish (represents the sound color). Perceptrual understanding shock wave represents the sound rhythm and emotion
